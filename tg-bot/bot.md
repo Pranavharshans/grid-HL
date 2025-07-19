@@ -23,6 +23,6 @@
          └────────────┬──────────┘  └──────┬────────────────────────┘
                       │                    │
               ┌───────▼───────┐    ┌───────▼────────┐
-              │ Order Placement│    │ User XP / Grid│
-              │ Cancel / Modify│    │ Referrals / LP│
+              │ Order Placement│   │ User XP / Grid │
+              │ Cancel / Modify│   │ Referrals / LP │
               └───────────────┘    └────────────────┘
